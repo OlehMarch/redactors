@@ -1,0 +1,112 @@
+body {
+background-image:url(../images/pattern.png);
+padding:0;
+margin:10px 0;
+font:14px Verdana,sans-serif;
+color:#ffffff;
+}
+
+#header {
+width:1000px;
+height:200px;
+margin:0 auto 25px auto;
+padding:0;
+outline:0px solid #faa21a;
+}
+
+#navigation {
+width:1000px;
+height:55px;
+margin:0 auto;
+padding:0;
+outline:0px solid #cc0000;
+}
+
+#buttonsOfNavi {
+height:50px;
+margin-top:-52px;
+outline:0px solid #cc00cc;
+}
+
+#button4 {padding-left:785px;margin-top:-50px;}
+#button3 {padding-left:535px;margin-top:-50px;}
+#button2 {padding-left:285px;margin-top:-50px;}
+#button1 {padding-left:35px;}
+
+#menu {
+width:1000px;
+margin:0 auto;
+padding:0;
+outline:0px solid #00cccc;
+}
+
+#menu1lvl {
+width:150px;
+height:256px;
+margin-left:252px;
+outline:0px solid #cccc00;
+}
+
+#menu2lvl {
+width:150px;
+height:111px;
+margin-left:404px;
+margin-top:-151px;
+outline:0px solid #00cccc;
+}
+
+#content {
+width:1000px;
+height:502px;
+margin:25px auto 0 auto;
+padding:0;
+outline:0px solid #cc0000;
+background-image:url(../images/body.png);
+}
+
+#contentInf {
+width:900px;
+padding-top:20px;
+margin:0 auto;
+outline:0px solid #cc0000;
+}
+
+.textHeader {
+padding:0 15px;
+margin:0;
+outline:0px solid #faa21a;
+font-size:22px;
+text-align:center;
+font-weight:bold;
+}
+
+#img {
+width:240px;
+height:351px;
+margin-top:30px;
+}
+
+#txt {
+margin-left:300px;
+margin-top:-350px;
+}
+
+a:link, a:visited {
+border-bottom:0px solid #cc0000;
+color:#cc0000;
+}
+
+a:hover {
+border-bottom:0px solid #cc0000;
+color:#00cc00;
+}
+
+a:active {
+border-bottom:0px solid #cc0000;
+color:#cc00cc;
+}
+
+#loading {
+margin-left:440px;
+margin-top:200px;
+}

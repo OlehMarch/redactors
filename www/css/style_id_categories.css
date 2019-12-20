@@ -1,0 +1,168 @@
+body {
+background-image:url(../images/pattern.png);
+padding:0;
+margin:10px 0;
+font:14px Verdana,sans-serif;
+color:#ffffff;
+line-height:19px;
+}
+
+#header {
+width:1000px;
+height:200px;
+margin:0 auto 25px auto;
+padding:0;
+outline:0px solid #faa21a;
+}
+
+#navigation {
+width:1000px;
+height:55px;
+margin:0 auto;
+padding:0;
+outline:0px solid #cc0000;
+}
+
+#buttonsOfNavi {
+height:50px;
+margin-top:-52px;
+outline:0px solid #cc00cc;
+}
+
+#button4 {padding-left:785px;margin-top:-50px;}
+#button3 {padding-left:535px;margin-top:-50px;}
+#button2 {padding-left:285px;margin-top:-50px;}
+#button1 {padding-left:35px;}
+
+#menu {
+width:1000px;
+margin:0 auto;
+padding:0;
+outline:0px solid #00cccc;
+}
+
+#menu1lvl {
+width:150px;
+height:256px;
+margin-left:252px;
+outline:0px solid #cccc00;
+}
+
+#menu2lvl {
+width:150px;
+height:111px;
+margin-left:404px;
+margin-top:-151px;
+outline:0px solid #00cccc;
+}
+
+#content {
+width:1000px;
+height:502px;
+margin:25px auto 0 auto;
+padding:0;
+outline:0px solid #cc0000;
+}
+
+#top {
+width:inherit;
+height:16px;
+outline:0px solid #00cc00;
+background-image:url(../images/body_ps_top.png);
+margin:0;
+padding:0;
+}
+
+#bottom {
+width:inherit;
+height:16px;
+outline:0px solid #cccc00;
+background-image:url(../images/body_ps_bottom.png);
+background-repeat:no-repeat;
+margin:0;
+padding:0;
+}
+
+#mid {
+width:inherit;
+outline:0px solid #cccc00;
+background-image:url(../images/body_ps_mid.png);
+padding:0;
+margin:0;
+}
+
+#txtField  {
+width:900px;
+margin:0 auto;
+outline:0px solid #00cccc;
+text-indent:15px;
+}
+
+#aLeft {
+width:430px;
+outline:0px solid #cc0000;
+}
+
+#aRight {
+float:right;
+margin-top:-333px;
+width:430px;
+outline:0px solid #cccc00;;
+}
+
+#txtFooter {
+width:900px;
+margin:0 auto;
+outline:0px solid #cccc00;
+text-align:center;
+}
+
+a:link, a:visited {
+border-bottom:0px solid #cc0000;
+color:#ffffff;
+}
+
+a:hover {
+border-bottom:0px solid #cc0000;
+color:#00cc00;
+}
+
+a:active {
+border-bottom:0px solid #cc0000;
+color:#cc00cc;
+}
+
+.txtHeader {
+width:700px;
+padding:1px 0 0 0;
+margin:0 auto;
+color:#cc0000;
+text-align:center;
+font-size:22px;
+outline:0px solid #cc0000;
+line-height:22px;
+}
+
+.txtSecondHeader {
+font-size:18px;
+text-align:center;
+font-weight:bold;
+outline:0px solid #cc0000;
+}
+
+.txtThirdHeader {
+font-size:18px;
+font-style:italic;
+font-weight:bold;
+}
+
+.txtBold {
+font-weight:bold;
+font-style:italic;
+border-bottom:1px dotted #cc0000;
+}
+
+#flood p {
+padding-bottom:60px;
+visibility:hidden;
+}

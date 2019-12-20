@@ -1,0 +1,236 @@
+body {
+background-image:url(../images/pattern.png);
+padding:0;
+margin:10px 0;
+font:14px Verdana,sans-serif;
+color:#ffffff;
+line-height:19px;
+}
+
+#header {
+width:1000px;
+height:200px;
+margin:0 auto 25px auto;
+padding:0;
+outline:0px solid #faa21a;
+}
+
+#navigation {
+width:1000px;
+height:55px;
+margin:0 auto;
+padding:0;
+outline:0px solid #cc0000;
+}
+
+#buttonsOfNavi {
+height:50px;
+margin-top:-52px;
+outline:0px solid #cc00cc;
+}
+
+#button4 {padding-left:785px;margin-top:-50px;}
+#button3 {padding-left:535px;margin-top:-50px;}
+#button2 {padding-left:285px;margin-top:-50px;}
+#button1 {padding-left:35px;}
+
+#menu {
+width:1000px;
+margin:0 auto;
+padding:0;
+outline:0px solid #00cccc;
+}
+
+#menu1lvl {
+width:150px;
+height:256px;
+margin-left:252px;
+outline:0px solid #cccc00;
+}
+
+#menu2lvl {
+width:150px;
+height:111px;
+margin-left:404px;
+margin-top:-151px;
+outline:0px solid #00cccc;
+}
+
+#content {
+width:1000px;
+height:502px;
+margin:25px auto 0 auto;
+padding:0;
+outline:0px solid #cc0000;
+}
+
+#top {
+width:inherit;
+height:16px;
+outline:0px solid #00cc00;
+background-image:url(../images/body_ps_top.png);
+margin:0;
+padding:0;
+}
+
+#bottom {
+width:inherit;
+height:16px;
+outline:0px solid #cccc00;
+background-image:url(../images/body_ps_bottom.png);
+background-repeat:no-repeat;
+margin:0;
+padding:0;
+}
+
+#mid {
+width:inherit;
+outline:0px solid #cccc00;
+background-image:url(../images/body_ps_mid.png);
+padding:0;
+margin:0;
+}
+
+#downloads  {
+width:900px;
+margin:0 auto;
+outline:0px solid #00cccc;
+text-indent:15px;
+}
+
+/* start of fonts CSS*/
+.elements {
+height:100px;
+margin-bottom:30px;
+outline:0px solid #0c0ccc;
+}
+
+.elements div p {
+width:500px;
+margin-left:40px;
+outline:0px solid #c000c0;
+}
+
+.elements img {
+float:right;
+margin-right:40px;
+outline:0px solid #cccc00;
+}
+/*end of fonts CSS*/
+
+/*start of gradients CSS*/
+.elementsOfGradients {
+height:170px;
+margin-bottom:30px;
+outline:0px solid #0c0ccc;
+}
+
+.elementsOfGradients div p {
+width:500px;
+margin-left:40px;
+outline:0px solid #c000c0;
+}
+
+.elementsOfGradients img {
+float:right;
+margin-right:40px;
+outline:0px solid #cccc00;
+}
+
+.elementFooterG {
+margin-top:75px;
+}
+/*end of gradients CSS*/
+
+/*start of textures CSS*/
+.elementsOfTextures {
+height:200px;
+margin-bottom:30px;
+outline:0px solid #0c0ccc;
+}
+
+.elementsOfTextures div p {
+width:500px;
+margin-left:40px;
+outline:0px solid #c000c0;
+}
+
+.elementsOfTextures img {
+float:right;
+margin-right:40px;
+outline:0px solid #cccc00;
+}
+
+.elementFooterT {
+margin-top:110px;
+}
+/*end of textures CSS*/
+
+/*start of brushes CSS*/
+.elementsOfBrushes {
+height:200px;
+margin-bottom:30px;
+outline:0px solid #0c0ccc;
+}
+
+.elementsOfBrushes div p {
+width:500px;
+margin-left:40px;
+outline:0px solid #c000c0;
+}
+
+.elementsOfBrushes img {
+float:right;
+margin-right:40px;
+outline:0px solid #cccc00;
+}
+
+.elementFooterB {
+margin-top:110px;
+}
+/*end of brushes CSS*/
+
+.txtHeader {
+width:700px;
+padding:1px 0 0 0;
+margin:0 auto;
+color:#cc0000;
+text-align:center;
+font-size:22px;
+outline:0px solid #cc0000;
+line-height:22px;
+}
+
+.txtSecondHeader {
+font-size:18px;
+text-align:center;
+font-weight:bold;
+color:#cc4233;
+outline:0px solid #cc0000;
+}
+
+.txtBold {
+font-weight:bold;
+font-style:italic;
+border-bottom:1px dotted #cc0000;
+}
+
+a:link, a:visited {
+border-bottom:0px solid #cc0000;
+color:#cc0000;
+}
+
+a:hover {
+border-bottom:0px solid #cc0000;
+color:#00cc00;
+}
+
+a:active {
+border-bottom:0px solid #cc0000;
+color:#cc00cc;
+}
+
+#flood p {
+padding-bottom:60px;
+visibility:hidden;
+}

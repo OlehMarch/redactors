@@ -1,0 +1,133 @@
+body {
+background-image:url(../images/pattern.png);
+padding:0;
+margin:10px 0;
+font:12px Verdana,sans-serif;
+color:#ffffff;
+}
+
+#header {
+width:1000px;
+height:200px;
+margin:0 auto 25px auto;
+padding:0;
+outline:0px solid #faa21a;
+}
+
+#navigation {
+width:1000px;
+height:55px;
+margin:0 auto;
+padding:0;
+outline:0px solid #cc0000;
+}
+
+#buttonsOfNavi {
+height:50px;
+margin-top:-52px;
+outline:0px solid #cc00cc;
+}
+
+#button4 {padding-left:785px;margin-top:-50px;}
+#button3 {padding-left:535px;margin-top:-50px;}
+#button2 {padding-left:285px;margin-top:-50px;}
+#button1 {padding-left:35px;}
+
+#menu {
+width:1000px;
+margin:0 auto;
+padding:0;
+outline:0px solid #00cccc;
+}
+
+#menu1lvl {
+width:150px;
+height:256px;
+margin-left:252px;
+outline:0px solid #cccc00;
+}
+
+#menu2lvl {
+width:150px;
+height:111px;
+margin-left:404px;
+margin-top:-151px;
+outline:0px solid #00cccc;
+}
+
+#content {
+width:1000px;
+height:502px;
+margin:25px auto 0 auto;
+padding:0;
+outline:0px solid #cc0000;
+background-image:url(../images/body.png);
+}
+
+#images {
+width:900px;
+padding-top:20px;
+margin:0 auto;
+outline:0px solid #00cc00;
+}
+
+#imagesSecondLine {
+width:684px;
+padding-top:50px;
+margin:0 auto;
+outline:0px solid #cccc00;
+}
+
+#inDesign {
+margin-left:456px;
+width:228px;
+height:184px;
+outline:0px solid #cc00cc;
+}
+
+#lightroom {
+margin-top:-184px;
+margin-left:228px;
+width:228px;
+height:184px;
+outline:0px solid #c00c0c;
+}
+
+#illustrator {
+margin-top:-184px;
+width:228px;
+height:184px;
+outline:0px solid #00cccc;
+}
+
+.textmain {
+padding:0 15px;
+margin:0;
+color:#ffffff;
+outline:0px solid #faa21a;
+}
+
+.imgs {
+outline:0px solid #faa21a;
+margin:30px 50px 0 50px;
+}
+
+#cd {
+margin-left:72px;
+outline:0px solid #faa21a;
+}
+
+#dmax {
+margin-left:155px;
+outline:0px solid #faa21a;
+}
+
+#app {
+margin-left:138px;
+outline:0px solid #faa21a;
+}
+
+#aps {
+margin-left:115px;
+outline:0px solid #faa21a;
+}
